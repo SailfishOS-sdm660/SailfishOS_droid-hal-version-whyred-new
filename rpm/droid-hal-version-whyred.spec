@@ -1,10 +1,10 @@
 # Reference: ../droid-hal-version/droid-hal-version.inc
 
-%define vendor oneplus
-%define device cheeseburger
+%define vendor xiaomi
+%define device whyred
 
-%define vendor_pretty OnePlus
-%define device_pretty OnePlus 5
+%define vendor_pretty Xiaomi
+%define device_pretty Redmi Note 5 Pro
 
 %define have_vibrator_native 1
 %define have_led 1
